@@ -50,6 +50,7 @@ points = []
 Color_line = (255,0,0)
 blue = (0, 0, 128)
 green = (0, 255, 0)
+print(type(green))
 
 # Define a player object by extending pygame.sprite.Sprite
 # The surface drawn on the screen is now an attribute of 'player'
